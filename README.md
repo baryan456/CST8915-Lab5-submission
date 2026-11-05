@@ -10,9 +10,9 @@ I used the provided service repositories, added Dockerfiles, built the applicati
 
 | Component | Source Code | Docker Image |
 |---|---|---|
-| Orders (Node.js) | [Order Service GitHub](ADD_YOUR_ORDER_FORK_URL) | [Docker Hub](https://hub.docker.com/r/baryan456/order-service) |
-| Products (Python) | [Product Service GitHub](ADD_YOUR_PYTHON_PRODUCT_FORK_URL) | [Docker Hub](https://hub.docker.com/r/baryan456/product-service) |
-| Frontend (Vue + Nginx) | [Store Front GitHub](ADD_YOUR_STOREFRONT_FORK_URL) | [Docker Hub](https://hub.docker.com/r/baryan456/store-front) |
+| Orders (Node.js) | [Order Service GitHub](https://github.com/baryan456/order-service-Lab5) | [Docker Hub](https://hub.docker.com/r/baryan456/order-service) |
+| Products (Python) | [Product Service GitHub](https://github.com/baryan456/product-service-python-Lab5) | [Docker Hub](https://hub.docker.com/r/baryan456/product-service) |
+| Frontend (Vue + Nginx) | [Store Front GitHub](https://github.com/baryan456/store-front-Lab5) | [Docker Hub](https://hub.docker.com/r/baryan456/store-front) |
 
 For RabbitMQ, I used the official `rabbitmq:4.3.6-management` image.
 
